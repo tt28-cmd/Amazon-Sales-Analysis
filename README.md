@@ -3,13 +3,17 @@
 This project provides a comprehensive analysis of Amazon sales data for the period of April to June 2022.The goal was to perform data cleaning, execute SQL queries, and create visualizations to identify key factors of revenue and sales efficiency.
 
 **Date of completion :** March 2026
-**Tools $ Tech :** Python( Pandas, Seaborn, Matplotlib), SQL(SQLite), Google Colab.
+
+**Tools & Tech :** Python( Pandas, Seaborn, Matplotlib), SQL(SQLite), Google Colab.
 
 ## 🛠️Technical Steps
-**Data Cleaning :** Handled missing values. standardized date formats(using pd.to_datetime), and removed duplicates for data integrity.
-**Exploratory Data Analysis:** Analyzed distribution across different categories, fulfillment methods, and shipping statuses.
-**SQL :** Done SQL queries to calculate business metrics such as Average Order Value and compared B2B vs B2C customer performance.
-**Data Visualization :** Designed charts to highlight sales trends over time and regional sales dominance.
+1.**Data Cleaning :** Handled missing values. standardized date formats(using pd.to_datetime), and removed duplicates for data integrity.
+
+2.**Exploratory Data Analysis:** Analyzed distribution across different categories, fulfillment methods, and shipping statuses.
+
+3.**SQL :** Done SQL queries to calculate business metrics such as Average Order Value and compared B2B vs B2C customer performance.
+
+4.**Data Visualization :** Designed charts to highlight sales trends over time and regional sales dominance.
 
 
 ## 💡Key Insights 
