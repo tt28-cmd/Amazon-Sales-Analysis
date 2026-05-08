@@ -25,3 +25,8 @@ This project provides a comprehensive analysis of Amazon sales data for the peri
 
 ## 🚀How to View the Project
 You can see the full analysis on GitHub by clicking the ".ipynb" file above, or open the project in Google Colab using the link provided within the notebook.
+
+
+**Excel Dashboard**
+
+![Dashboard](dashboard.mp4)
